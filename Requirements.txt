@@ -1,4 +1,4 @@
-streamlit
-numpy
-matplotlib as plot
-toolkits.mplot3d
+import streamlit as st
+import numpy as np
+import matplotlib as plot
+from toolkits.mplot3d import Axes3D
