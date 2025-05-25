@@ -1,4 +1,4 @@
 streamlit
 sympy
-numpy
-matploylib
+matplotlib.pyplot
+
