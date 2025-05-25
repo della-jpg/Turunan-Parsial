@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np
-import matplotlib.py as plt
+import matplotlib as plt
 from toolkits.mplot3d import Axes3D
 
 st.title("Visualisasi Permukaan Fungsi Produksi Tahu (Cobb-Douglas)")
