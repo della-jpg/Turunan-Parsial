@@ -1,0 +1,1 @@
+# Turunan-Parsial
